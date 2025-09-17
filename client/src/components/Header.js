@@ -1,4 +1,4 @@
-```javascript
+
 import { Link } from 'react-router-dom';
 
 function Header({ user, onLogout }) {
@@ -29,4 +29,3 @@ function Header({ user, onLogout }) {
 }
 
 export default Header;
-```

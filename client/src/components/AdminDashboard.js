@@ -1,4 +1,4 @@
-```javascript
+
 import { useState } from 'react';
 import { createCourse, createSuccessStory } from '../api';
 
@@ -109,4 +109,3 @@ function AdminDashboard() {
 }
 
 export default AdminDashboard;
-```

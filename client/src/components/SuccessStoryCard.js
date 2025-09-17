@@ -1,4 +1,4 @@
-```javascript
+
 function SuccessStoryCard({ story }) {
   return (
     <div className="border rounded-lg p-4 shadow-md">
@@ -10,4 +10,3 @@ function SuccessStoryCard({ story }) {
 }
 
 export default SuccessStoryCard;
-```

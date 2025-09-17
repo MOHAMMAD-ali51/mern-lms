@@ -1,4 +1,4 @@
-```javascript
+
 import { useState } from 'react';
 import { loginUser } from '../api';
 import { useNavigate } from 'react-router-dom';
@@ -45,4 +45,3 @@ function LoginForm({ setUser }) {
 }
 
 export default LoginForm;
-```

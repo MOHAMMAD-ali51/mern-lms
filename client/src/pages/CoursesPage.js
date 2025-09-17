@@ -1,4 +1,4 @@
-```javascript
+
 import CourseList from '../components/CourseList';
 
 function CoursesPage() {
@@ -11,4 +11,3 @@ function CoursesPage() {
 }
 
 export default CoursesPage;
-```

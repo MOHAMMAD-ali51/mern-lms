@@ -1,4 +1,4 @@
-```javascript
+
 import RegisterForm from '../components/RegisterForm';
 
 function RegisterPage({ setUser }) {
@@ -11,4 +11,3 @@ function RegisterPage({ setUser }) {
 }
 
 export default RegisterPage;
-```

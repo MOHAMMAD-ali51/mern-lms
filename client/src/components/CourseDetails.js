@@ -1,4 +1,4 @@
-```javascript
+
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { getCourseById } from '../api';
@@ -42,4 +42,3 @@ function CourseDetails({ user }) {
 }
 
 export default CourseDetails;
-```

@@ -1,4 +1,4 @@
-```javascript
+
 import { useState, useEffect } from 'react';
 import CourseCard from './CourseCard';
 import { getCourses, deleteCourse } from '../api';
@@ -49,4 +49,3 @@ function CourseList({ user }) {
 }
 
 export default CourseList;
-```

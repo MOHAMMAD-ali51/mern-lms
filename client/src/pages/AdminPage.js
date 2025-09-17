@@ -1,4 +1,4 @@
-```javascript
+
 import AdminDashboard from '../components/AdminDashboard';
 
 function AdminPage() {
@@ -6,4 +6,3 @@ function AdminPage() {
 }
 
 export default AdminPage;
-```

@@ -1,4 +1,4 @@
-```javascript
+
 import { Link } from 'react-router-dom';
 
 function CourseCard({ course, user, onDelete }) {
@@ -26,4 +26,3 @@ function CourseCard({ course, user, onDelete }) {
 }
 
 export default CourseCard;
-```

@@ -1,4 +1,4 @@
-```javascript
+
 const mongoose = require('mongoose');
 
 const successStorySchema = new mongoose.Schema({
@@ -8,4 +8,3 @@ const successStorySchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('SuccessStory', successStorySchema);
-```

@@ -1,4 +1,4 @@
-```javascript
+
 const API_URL = 'http://localhost:5000/api';
 
 export const loginUser = async (email, password) => {
@@ -111,4 +111,3 @@ export const createSuccessStory = async (storyData, token) => {
   if (!response.ok) throw new Error(data.message);
   return data;
 };
-```

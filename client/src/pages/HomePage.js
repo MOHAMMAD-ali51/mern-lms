@@ -1,4 +1,4 @@
-```javascript
+
 import { useState, useEffect } from 'react';
 import Hero from '../components/Hero';
 import CourseCard from '../components/CourseCard';
@@ -47,4 +47,3 @@ function HomePage() {
 }
 
 export default HomePage;
-```

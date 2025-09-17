@@ -1,4 +1,4 @@
-```javascript
+
 function Hero() {
   return (
     <section className="bg-gray-200 p-8 text-center rounded-lg mb-8">
@@ -9,4 +9,3 @@ function Hero() {
 }
 
 export default Hero;
-```
